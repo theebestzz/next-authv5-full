@@ -1,8 +1,6 @@
-DATABASE_URL=
+# DATABASE_URL=
 
-Added by `npx auth secret`. Read more: https://cli.authjs.dev
-
-AUTH_SECRET=
+# AUTH_SECRET=secret
 
 # GOOGLE_CLIENT_ID=
 # GOOGLE_CLIENT_SECRET=
