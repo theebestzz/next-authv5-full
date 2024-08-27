@@ -11,7 +11,7 @@ export default async function Settings() {
         action={async () => {
           "use server";
 
-          await signOut();
+          await signOut({ redirectTo: "/auth/login" });
         }}
       >
         <button>Logout</button>
