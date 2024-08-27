@@ -1,6 +1,6 @@
 DATABASE_URL=
 
-# Added by `npx auth secret`. Read more: https://cli.authjs.dev
+Added by `npx auth secret`. Read more: https://cli.authjs.dev
 
 AUTH_SECRET=
 
