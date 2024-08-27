@@ -1,3 +1,5 @@
+# ENV.EXAMPLE
+
 # DATABASE_URL=
 
 # AUTH_SECRET=secret
